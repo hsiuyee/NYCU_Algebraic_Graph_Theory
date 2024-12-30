@@ -1,1 +1,1 @@
-# NYCU_Algebraic_Graph_Theory
+# Algebraic_Graph_Theory
